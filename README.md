@@ -1,2 +1,1 @@
-# Hello-world
-just another repository
+你好，我来自中国
